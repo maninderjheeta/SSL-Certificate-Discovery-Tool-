@@ -1,0 +1,36 @@
+2015-07-06 23:44:17 INFO  ThreadManager:31 - start ThreadManager
+2015-07-06 23:44:17 INFO  ThreadManager:38 - end ThreadManager
+2015-07-06 23:44:17 INFO  ThreadManager:54 - start getInstance
+2015-07-06 23:44:17 INFO  ThreadManager:57 - end getInstance
+2015-07-06 23:44:17 INFO  SSLSearcher:44 - start discoverSSL
+2015-07-06 23:44:17 INFO  SSLSearcher:79 - start getSSLDetail
+2015-07-06 23:44:18 INFO  SSLSearcher:103 - end getSSLDetail
+2015-07-06 23:44:18 INFO  SSLSearcher:166 - start getSSLDetail
+2015-07-06 23:44:18 INFO  SSLSearcher:184 - Certificate Name - *.google.com and expiry - Wed Sep 16 05:30:00 IST 2015
+2015-07-06 23:44:18 DEBUG SSLSearcher:193 - Certificate detail - *.google.com,216.58.196.110:443,Google Inc,714284292682650369
+2015-07-06 23:44:18 INFO  SSLSearcher:196 - end getSSLDetail
+2015-07-06 23:44:18 INFO  SSLSearcher:65 - end discoverSSL
+2015-07-06 23:44:18 INFO  SSLDiscover:296 - start update
+2015-07-06 23:44:18 INFO  SSLDiscover:299 - Worker update received
+2015-07-06 23:44:18 DEBUG SSLDiscover:304 - Updating table
+2015-07-06 23:44:18 DEBUG SSLDiscover:309 - values : [216.58.196.110:443, *.google.com, 16/09/2015  05:30:00 AM, Google Inc]
+2015-07-06 23:44:18 INFO  SSLDiscover:311 - Table updated
+2015-07-06 23:44:18 INFO  SSLDiscover:315 - end update
+2015-07-06 23:44:34 INFO  ThreadManager:31 - start ThreadManager
+2015-07-06 23:44:34 INFO  ThreadManager:38 - end ThreadManager
+2015-07-06 23:44:34 INFO  ThreadManager:54 - start getInstance
+2015-07-06 23:44:34 INFO  ThreadManager:57 - end getInstance
+2015-07-06 23:44:34 INFO  SSLSearcher:44 - start discoverSSL
+2015-07-06 23:44:34 INFO  SSLSearcher:79 - start getSSLDetail
+2015-07-06 23:44:34 INFO  SSLSearcher:103 - end getSSLDetail
+2015-07-06 23:44:35 INFO  SSLSearcher:166 - start getSSLDetail
+2015-07-06 23:44:35 INFO  SSLSearcher:184 - Certificate Name - *.google.com and expiry - Wed Sep 16 05:30:00 IST 2015
+2015-07-06 23:44:35 DEBUG SSLSearcher:193 - Certificate detail - *.google.com,216.58.196.110:443,Google Inc,714284292682650369
+2015-07-06 23:44:35 INFO  SSLSearcher:196 - end getSSLDetail
+2015-07-06 23:44:35 INFO  SSLSearcher:65 - end discoverSSL
+2015-07-06 23:44:35 INFO  SSLDiscover:296 - start update
+2015-07-06 23:44:35 INFO  SSLDiscover:299 - Worker update received
+2015-07-06 23:44:35 DEBUG SSLDiscover:304 - Updating table
+2015-07-06 23:44:35 DEBUG SSLDiscover:309 - values : [216.58.196.110:443, *.google.com, 16/09/2015  05:30:00 AM, Google Inc]
+2015-07-06 23:44:35 INFO  SSLDiscover:311 - Table updated
+2015-07-06 23:44:35 INFO  SSLDiscover:315 - end update
